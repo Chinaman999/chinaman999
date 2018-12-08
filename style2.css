@@ -1,0 +1,57 @@
+h1 {
+    color: black;
+    background-color:rgb(217, 128, 0);
+    margin: 75px;
+    Padding: 40px;
+    text-align: center;
+    font: bold;
+    transform: rotate(76)
+}
+
+li {color: black;
+    background-color:rgb(217, 128, 0);
+    margin: 10px;
+    width: 55px;
+    Padding: 15px;
+    text-align: center;
+    font: bold;
+    transform: rotate(76);   
+}
+
+
+a:link {
+    background-color: rgb(217, 128, 0);
+    color: black;
+    padding: 14px 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border: black;
+}
+
+
+
+a:visited {
+    color: rgba(70, 25, 25, 0.027);
+}
+
+
+
+body{
+    background-image: url(Chigga3.jpg);
+   
+   
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+frame{
+    transition transform 1s;
+    transition width 2s;
+
+    width 530x;
+    height
+}

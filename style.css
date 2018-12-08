@@ -1,0 +1,37 @@
+h1 {
+    color: rgb(203, 148, 138);
+    background-color:rgb(33, 32, 28);
+    margin: 75px;
+    Padding: 40px;
+    text-align: center;
+    font: bold;
+    transform: rotate(76)
+}
+a:link {
+    color: rgb(33, 32, 28);
+    background-color: rgb(203, 148, 138);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:visited {
+    color: rgba(70, 25, 25, 0.027);
+}
+
+
+
+body{
+    background-image: url(chigga2.jpg);
+    
+}
+
+frame{
+    transition transform 1s;
+    transition width 2s;
+
+    width 530x;
+    height
+}
